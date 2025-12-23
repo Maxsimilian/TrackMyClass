@@ -1,27 +1,42 @@
 # Ignore build output
 build/
+.dart_tool/
 
 # Ignore version control
 .git/
 
 # Ignore IDE stuff
 .idea/
+.vscode/
 *.iml
+*.ipr
+*.iws
 
 # Ignore OS/system junk
 .DS_Store
 Thumbs.db
+*.log
 
 # Ignore other platforms you’re not building for
 ios/
 macos/
 windows/
 web/
+linux/
 
 # Ignore auto-generated plugin links & files
 **/.plugin_symlinks/
 .flutter-plugins
 .flutter-plugins-dependencies
+.pub-cache/
+.pub/
+
+# Ignore local properties & secrets (Strict Security)
+local.properties
+android/local.properties
+key.properties
+*.jks
+*.keystore
 
 # Ignore local Gradle properties to prevent Java path issues inside Docker
 android/gradle.properties

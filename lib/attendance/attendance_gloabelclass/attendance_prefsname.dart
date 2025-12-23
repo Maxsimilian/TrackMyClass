@@ -1,0 +1,1 @@
+const attendanceDarkMode = "isdark";

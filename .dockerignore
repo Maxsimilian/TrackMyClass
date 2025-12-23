@@ -1,0 +1,27 @@
+# Ignore build output
+build/
+
+# Ignore version control
+.git/
+
+# Ignore IDE stuff
+.idea/
+*.iml
+
+# Ignore OS/system junk
+.DS_Store
+Thumbs.db
+
+# Ignore other platforms you’re not building for
+ios/
+macos/
+windows/
+web/
+
+# Ignore auto-generated plugin links & files
+**/.plugin_symlinks/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Ignore local Gradle properties to prevent Java path issues inside Docker
+android/gradle.properties

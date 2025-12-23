@@ -1,0 +1,43 @@
+class AttendancePngimage {
+  static String home = "assets/attendance_assets/attendance_pngimage/home.png";
+  static String splash = "assets/attendance_assets/attendance_pngimage/splash.png";
+  static String splash1 = "assets/attendance_assets/attendance_pngimage/splash1.png";
+  static String note = "assets/attendance_assets/attendance_pngimage/note.png";
+  static String holiday = "assets/attendance_assets/attendance_pngimage/holiday.png";
+  static String profile = "assets/attendance_assets/attendance_pngimage/profile.png";
+  static String profile2 = "assets/attendance_assets/attendance_pngimage/profile2.png";
+  static String photo = "assets/attendance_assets/attendance_pngimage/photo.png";
+  static String photo1 = "assets/attendance_assets/attendance_pngimage/photo1.png";
+  static String photo2 = "assets/attendance_assets/attendance_pngimage/photo2.png";
+  static String photo3 = "assets/attendance_assets/attendance_pngimage/photo3.png";
+  static String notification = "assets/attendance_assets/attendance_pngimage/notification.png";
+  static String calendar = "assets/attendance_assets/attendance_pngimage/calendar.png";
+  static String checkin = "assets/attendance_assets/attendance_pngimage/checkin.png";
+  static String checkout = "assets/attendance_assets/attendance_pngimage/checkout.png";
+  static String coffee = "assets/attendance_assets/attendance_pngimage/coffee.png";
+  static String addsquare = "assets/attendance_assets/attendance_pngimage/addsquare.png";
+  static String filter = "assets/attendance_assets/attendance_pngimage/filter.png";
+  static String success = "assets/attendance_assets/attendance_pngimage/success.png";
+  static String more = "assets/attendance_assets/attendance_pngimage/more.png";
+  static String search = "assets/attendance_assets/attendance_pngimage/search.png";
+  static String lock = "assets/attendance_assets/attendance_pngimage/lock.png";
+  static String screen1 = "assets/attendance_assets/attendance_pngimage/screen1.png";
+  static String screen2 = "assets/attendance_assets/attendance_pngimage/screen2.png";
+  static String googleicon = "assets/attendance_assets/attendance_pngimage/googleicon.png";
+  static String email = "assets/attendance_assets/attendance_pngimage/email.png";
+  static String call = "assets/attendance_assets/attendance_pngimage/call.png";
+  static String forgotpassword = "assets/attendance_assets/attendance_pngimage/forgotpassword.png";
+  static String otp = "assets/attendance_assets/attendance_pngimage/otp.png";
+  static String newpassword = "assets/attendance_assets/attendance_pngimage/newpassword.png";
+  static String imgsuccess = "assets/attendance_assets/attendance_pngimage/img_success.png";
+  static String setting = "assets/attendance_assets/attendance_pngimage/setting.png";
+  static String tems = "assets/attendance_assets/attendance_pngimage/tems.png";
+  static String privacy = "assets/attendance_assets/attendance_pngimage/privacy.png";
+  static String swap = "assets/attendance_assets/attendance_pngimage/swap.png";
+  static String darkmode = "assets/attendance_assets/attendance_pngimage/darkmode.png";
+  static String logout = "assets/attendance_assets/attendance_pngimage/logout.png";
+  static String document = "assets/attendance_assets/attendance_pngimage/document.png";
+  static String call1 = "assets/attendance_assets/attendance_pngimage/call1.png";
+  static String trash = "assets/attendance_assets/attendance_pngimage/trash.png";
+}
+

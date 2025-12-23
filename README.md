@@ -222,11 +222,11 @@ docker rm trackmyclass-builder
 
 # 📜 **License**  
 
-This project is currently developed as part of a **Final Year Project (FYP)** for **Royal Holloway, University of London**. Licensing details will be determined upon project completion based on university policies.  
+This project was developed as a **Final Year Project (FYP)** for **Royal Holloway, University of London**. It is now open-source and available under the **MIT License**.  
 
 ---
 
 # 📧 **Contact**  
 
 **Project Author:** Maxsimilian Amalathas  
-**Email:** [zlac425@live.rhul.ac.uk](mailto:zlac425@live.rhul.ac.uk)
+**Email:** [gyumiho@protonmail.com](mailto:gyumiho@protonmail.com)

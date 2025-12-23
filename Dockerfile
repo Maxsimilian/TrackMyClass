@@ -26,7 +26,7 @@ ENV GRADLE_USER_HOME="/home/gradle-cache"
 
 # Accept licenses and install build tools
 RUN yes | sdkmanager --licenses && \
-    sdkmanager "platform-tools" "platforms;android-33" "build-tools;33.0.2"
+    sdkmanager "platform-tools" "platforms;android-34" "build-tools;34.0.0"
 
 # Set up Flutter
 RUN flutter doctor
